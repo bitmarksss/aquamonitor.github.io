@@ -96197,7 +96197,7 @@ s=p}while(true)switch(s){case 0:n.I(new A.auO(n))
 m=A.aU("url")
 h=n.z
 h===$&&A.b()
-m.b=A.cQ("http",h.cX(),"/api/login/",null)
+m.b=A.cQ("https",h.cX(),"/api/login/",null)
 h=t.N
 l=B.M.rn(A.aM(["username",a,"password",b],h,h),null)
 p=4
